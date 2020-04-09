@@ -3,8 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
-#link of challenge
-# https://www.hackerrank.com/challenges/sum-numbers-c/problem
+// link of challenge
+// https://www.hackerrank.com/challenges/sum-numbers-c/problem
 
 int main()
 {
