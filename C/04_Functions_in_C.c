@@ -1,5 +1,3 @@
-//link of challenge : https://www.hackerrank.com/challenges/functions-in-c/problem
-
 #include <stdio.h>
 
 /*
