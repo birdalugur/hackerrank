@@ -63,7 +63,7 @@ char* get_representation(int n){
         }
         else
         {
-            exit(EXIT_SUCCESS);
+            exit(EXIT_FAILURE);
         }
     }
     

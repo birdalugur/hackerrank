@@ -22,7 +22,7 @@ int sumDigit(int n){
 
     else
     {
-        exit(EXIT_SUCCESS);
+        exit(EXIT_FAILURE);
     }
 
     return total;
